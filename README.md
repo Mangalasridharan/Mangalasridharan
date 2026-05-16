@@ -1,10 +1,15 @@
 <div align="center">
+<img src="Bruno Pixels(1).gif" height="300" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=&fontSize=0" width="100%"/>
+
 
 ```
-█▀▄▀█ ▄▀█ █▄░█ █▀▀ ▄▀█ █░░ ▄▀█ █▀ █▀█ █ █▀▄ █░█ ▄▀█ █▀█ ▄▀█ █▄░█
-█░▀░█ █▀█ █░▀█ █▄█ █▀█ █▄▄ █▀█ ▄█ █▀▄ █ █▄▀ █▀█ █▀█ █▀▄ █▀█ █░▀█
+███╗   ███╗ █████╗ ███╗   ██╗ ██████╗  █████╗ ██╗      █████╗ ███████╗██████╗ ██╗██████╗ ██╗  ██╗ █████╗ ██████╗  █████╗ ███╗   ██╗
+████╗ ████║██╔══██╗████╗  ██║██╔════╝ ██╔══██╗██║     ██╔══██╗██╔════╝██╔══██╗██║██╔══██╗██║  ██║██╔══██╗██╔══██╗██╔══██╗████╗  ██║
+██╔████╔██║███████║██╔██╗ ██║██║  ███╗███████║██║     ███████║███████╗██████╔╝██║██║  ██║███████║███████║██████╔╝███████║██╔██╗ ██║
+██║╚██╔╝██║██╔══██║██║╚██╗██║██║   ██║██╔══██║██║     ██╔══██║╚════██║██╔══██╗██║██║  ██║██╔══██║██╔══██║██╔══██╗██╔══██║██║╚██╗██║
+██║ ╚═╝ ██║██║  ██║██║ ╚████║╚██████╔╝██║  ██║███████╗██║  ██║███████║██║  ██║██║██████╔╝██║  ██║██║  ██║██║  ██║██║  ██║██║ ╚████║
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
 ### Building systems that run the physical world.
@@ -46,41 +51,31 @@ available_from: September 2025
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+[![Languages](https://skillicons.dev/icons?i=java,cpp,python,javascript,typescript&theme=dark)](https://skillicons.dev)
 
-**Backend & Frameworks**
+**Frameworks & Runtime**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+[![Frameworks](https://skillicons.dev/icons?i=spring,nodejs,react,nextjs,express&theme=dark)](https://skillicons.dev)
 
-**AI & ML**
-
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+&nbsp;&nbsp;![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 
 **Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark)](https://skillicons.dev)
 
-**Cloud & DevOps**
+&nbsp;&nbsp;![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white) ![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=timescale&logoColor=black)
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+**DevOps & Tools**
+
+[![DevOps](https://skillicons.dev/icons?i=docker,aws,git,github,linux,vscode,idea,postman&theme=dark)](https://skillicons.dev)
+
+&nbsp;&nbsp;![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**AI & ML**
+
+[![AI](https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark)](https://skillicons.dev)
+
+&nbsp;&nbsp;![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white) ![TinyML](https://img.shields.io/badge/TinyML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 ---
 
@@ -144,18 +139,21 @@ Full-stack smart shopping system with real-time cart sync, weight-based calculat
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mangalasridharan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+<!-- Terminal style — Profile Summary Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mangalasridharan&theme=github_dark" width="100%"/>
 
-<!-- Top Languages — Terminal Bar Style -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mangalasridharan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mangalasridharan&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mangalasridharan&theme=github_dark" width="49%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mangalasridharan&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mangalasridharan&theme=github_dark&utcOffset=5.5" width="49%"/>
 
 </div>
 
 <div align="center">
 
 <!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=Mangalasridharan&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Mangalasridharan&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" width="60%"/>
 
 </div>
 
