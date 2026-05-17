@@ -46,17 +46,27 @@ availability: Open from September 2025
 
 **`$ cat langs --repos`**
 
+<!-- LANG_BARS_START -->
+```text
+Jupyter Notebook   4 repos ██████░░░░░░░░░░░░░░░░░░░  22.22 %
+C++             3 repos ████░░░░░░░░░░░░░░░░░░░░░  16.67 %
+Python          3 repos ████░░░░░░░░░░░░░░░░░░░░░  16.67 %
+Java            3 repos ████░░░░░░░░░░░░░░░░░░░░░  16.67 %
+TypeScript      2 repos ███░░░░░░░░░░░░░░░░░░░░░░  11.11 %
 ```
-JavaScript   33 repos █████████░░░░░░░░░░░░░░░░ 36.26 %
-TypeScript   20 repos █████░░░░░░░░░░░░░░░░░░░░ 21.98 %
-Python        6 repos ██░░░░░░░░░░░░░░░░░░░░░░░  6.59 %
-MDX           1 repo  ░░░░░░░░░░░░░░░░░░░░░░░░░  1.10 %
-HTML          1 repo  ░░░░░░░░░░░░░░░░░░░░░░░░░  1.10 %
-```
+<!-- LANG_BARS_END -->
 
 </td>
 </tr>
 </table>
+
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mangalasridharan/Mangalasridharan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mangalasridharan/Mangalasridharan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mangalasridharan/Mangalasridharan/output/pacman-contribution-graph.svg" width="100%">
+</picture>
+<br/>
 
 > *I don't just write code — I build systems that work at scale, fail gracefully, and matter in the real world.*
 
