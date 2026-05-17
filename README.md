@@ -1,7 +1,3 @@
-<div align="center">
-<img src="Bruno Pixels(1).gif" height="300" width="100%"/>
-
-
 
 ```
 ███╗   ███╗ █████╗ ███╗   ██╗ ██████╗  █████╗ ██╗      █████╗ ███████╗██████╗ ██╗██████╗ ██╗  ██╗ █████╗ ██████╗  █████╗ ███╗   ██╗
@@ -11,37 +7,56 @@
 ██║ ╚═╝ ██║██║  ██║██║ ╚████║╚██████╔╝██║  ██║███████╗██║  ██║███████║██║  ██║██║██████╔╝██║  ██║██║  ██║██║  ██║██║  ██║██║ ╚████║
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
-
-### Building systems that run the physical world.
-#### Backend Engineer · IIoT & Cloud · Agentic AI
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mangalasridharan-sankar-eswaran)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mangalasridharan.sankar.eswaran@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mangalasridharan)
-
-</div>
-
 ---
+
+<img src="Bruno Pixels(1).gif" height="300" width="100%"/>
+
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## `> whoami`
 
 ```yaml
-name: Mangalasridharan Sankar Eswaran
 role: Backend Engineer
-location: Bengaluru, India
-currently_building:
-  - Uptime — Industrial maintenance management system (Spring Boot + AI)
-  - MaTriX AI — Edge-first multi-agent medical triage system
-interests:
-  - Backend systems & distributed architecture
-  - Industrial IoT & IIoT data pipelines
+
+focus:
+  - Distributed systems & backend architecture
+  - Industrial IoT (IIoT) data pipelines
   - Agentic AI & multi-agent systems
-  - Cloud-native infrastructure (AWS)
-currently_interning_at: Defense-tech startup (AI + Systems, Python/C++)
-available_from: September 2025
+
+active_projects:
+  - Uptime — Industrial maintenance intelligence platform
+  - MaTriX AI — Edge-first medical triage system
+
+experience:
+  - Defense-tech startup — AI + Systems (Python/C++)
+
+location: Bengaluru, India
+availability: Open from September 2025
 ```
+
+</td>
+<td width="50%" valign="top">
+
+## `> github --stats`
+
+<img src="https://streak-stats.demolab.com?user=Mangalasridharan&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" width="100%"/>
+
+**`$ cat langs --repos`**
+
+```
+JavaScript   33 repos █████████░░░░░░░░░░░░░░░░ 36.26 %
+TypeScript   20 repos █████░░░░░░░░░░░░░░░░░░░░ 21.98 %
+Python        6 repos ██░░░░░░░░░░░░░░░░░░░░░░░  6.59 %
+MDX           1 repo  ░░░░░░░░░░░░░░░░░░░░░░░░░  1.10 %
+HTML          1 repo  ░░░░░░░░░░░░░░░░░░░░░░░░░  1.10 %
+```
+
+</td>
+</tr>
+</table>
 
 > *I don't just write code — I build systems that work at scale, fail gracefully, and matter in the real world.*
 
@@ -135,38 +150,6 @@ Full-stack smart shopping system with real-time cart sync, weight-based calculat
 
 ---
 
-## `> github --stats`
-
-<div align="center">
-
-<!-- Terminal style — Profile Summary Cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mangalasridharan&theme=github_dark" width="100%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mangalasridharan&theme=github_dark" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mangalasridharan&theme=github_dark" width="49%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mangalasridharan&theme=github_dark" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mangalasridharan&theme=github_dark&utcOffset=5.5" width="49%"/>
-
-</div>
-
-<div align="center">
-
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=Mangalasridharan&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" width="60%"/>
-
-</div>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mangalasridharan/Mangalasridharan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mangalasridharan/Mangalasridharan/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Mangalasridharan/Mangalasridharan/output/pacman-contribution-graph.svg" width="100%"/>
-</picture>
-
----
-
 ## `> connect --open`
 
 I'm open to backend, full-stack, and IIoT-adjacent roles from **September 2025.**  
@@ -176,17 +159,5 @@ If you're building systems that matter in the physical world — let's talk.
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mangalasridharan-sankar-eswaran)
 [![Email](https://img.shields.io/badge/Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mangalasridharan.sankar.eswaran@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
-
-*"Only if you build something real will you know how systems work."*
-
-![Profile Views](https://komainu8.github.io/profile-views-counter/counter.svg?page=Mangalasridharan)
 
 </div>
