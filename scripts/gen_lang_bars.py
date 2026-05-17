@@ -67,12 +67,13 @@ def build_bar(pct):
     return "█" * filled + "░" * (BAR_WIDTH - filled)
 
 def generate_terminal_block(stats):
-    lines = []
+    lines = ["```text"]
     for lang, count, pct in stats:
         bar = build_bar(pct)
         repo_word = "repo" if count == 1 else "repos"
         line = f"{lang:<13} {count:>3} {repo_word:<5} {bar} {pct:>6.2f} %"
         lines.append(line)
+    lines.append("```")
     return "\n".join(lines)
 
 def update_readme(block):
