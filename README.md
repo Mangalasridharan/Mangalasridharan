@@ -14,7 +14,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
 ## `> whoami`
 
@@ -42,7 +42,7 @@ availability: Open from September 2025
 
 ## `> github --stats`
 
-<img src="https://streak-stats.demolab.com?user=Mangalasridharan&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=Mangalasridharan&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" width="95%"/>
 
 **`$ cat langs --repos`**
 
@@ -68,10 +68,6 @@ TypeScript      2 repos ███░░░░░░░░░░░░░░░�
 </picture>
 <br/>
 
-> *I don't just write code — I build systems that work at scale, fail gracefully, and matter in the real world.*
-
----
-
 ## `> tech_stack --list`
 
 **Languages**
@@ -80,21 +76,16 @@ TypeScript      2 repos ███░░░░░░░░░░░░░░░�
 
 **Frameworks & Runtime**
 
-[![Frameworks](https://skillicons.dev/icons?i=spring,nodejs,react,nextjs,express&theme=dark)](https://skillicons.dev)
-
-&nbsp;&nbsp;![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+[![Frameworks](https://skillicons.dev/icons?i=spring,nodejs,react,nextjs,express,nestjs&theme=dark)](https://skillicons.dev)
 
 **Databases**
 
-[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark)](https://skillicons.dev)
-
-&nbsp;&nbsp;![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white) ![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=timescale&logoColor=black)
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark)](https://skillicons.dev)
 
 **DevOps & Tools**
 
-[![DevOps](https://skillicons.dev/icons?i=docker,aws,git,github,linux,vscode,idea,postman&theme=dark)](https://skillicons.dev)
+[![DevOps](https://skillicons.dev/icons?i=docker,aws,git,github,linux,vscode,idea,postman,vercel,datagrip&theme=dark)](https://skillicons.dev)
 
-&nbsp;&nbsp;![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 **AI & ML**
 
