@@ -76,20 +76,21 @@ TypeScript      3 repos ████░░░░░░░░░░░░░░�
 
 **Frameworks & Runtime**
 
-[![Frameworks](https://skillicons.dev/icons?i=spring,nodejs,react,nextjs,express,nestjs&theme=dark)](https://skillicons.dev)
+[![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=spring,nodejs,react,nextjs,express,nestjs&theme=dark)](https://go-skill-icons.vercel.app)
 
 **Databases**
 
-[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark)](https://skillicons.dev)
+[![Databases](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,mongodb&theme=dark)](https://go-skill-icons.vercel.app)
+
 
 **DevOps & Tools**
 
-[![DevOps](https://skillicons.dev/icons?i=docker,aws,git,github,linux,vscode,idea,postman,vercel,datagrip&theme=dark)](https://skillicons.dev)
+[![DevOps](https://go-skill-icons.vercel.app/api/icons?i=docker,aws,git,github,linux,vscode,idea,postman,vercel,datagrip)](https://go-skill-icons.vercel.app)
 
 
 **AI & ML**
 
-[![AI](https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark)](https://skillicons.dev)
+[![AI](https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,huggingface,langchain,langgraph,ollama)](https://go-skill-icons.vercel.app)
 
 &nbsp;&nbsp;![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white) ![TinyML](https://img.shields.io/badge/TinyML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
