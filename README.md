@@ -72,7 +72,7 @@ TypeScript      3 repos ████░░░░░░░░░░░░░░�
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=java,cpp,python,javascript,typescript&theme=dark)](https://skillicons.dev)
+[![Languages](https://go-skill-icons.vercel.app/api/icons?i=java,python,javascript,typescript,cpp)](https://go-skill-icons.vercel.app)
 
 **Frameworks & Runtime**
 
