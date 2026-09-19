@@ -48,11 +48,11 @@ availability: Open from September 2025
 
 <!-- LANG_BARS_START -->
 ```text
-Jupyter Notebook   4 repos ██████░░░░░░░░░░░░░░░░░░░  22.22 %
-C++             3 repos ████░░░░░░░░░░░░░░░░░░░░░  16.67 %
-TypeScript      3 repos ████░░░░░░░░░░░░░░░░░░░░░  16.67 %
-JavaScript      2 repos ███░░░░░░░░░░░░░░░░░░░░░░  11.11 %
-Python          2 repos ███░░░░░░░░░░░░░░░░░░░░░░  11.11 %
+TypeScript      4 repos █████░░░░░░░░░░░░░░░░░░░░  21.05 %
+Jupyter Notebook   4 repos █████░░░░░░░░░░░░░░░░░░░░  21.05 %
+C++             3 repos ████░░░░░░░░░░░░░░░░░░░░░  15.79 %
+JavaScript      2 repos ███░░░░░░░░░░░░░░░░░░░░░░  10.53 %
+Python          2 repos ███░░░░░░░░░░░░░░░░░░░░░░  10.53 %
 ```
 <!-- LANG_BARS_END -->
 
