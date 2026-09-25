@@ -51,8 +51,8 @@ availability: Open from September 2025
 TypeScript      4 repos █████░░░░░░░░░░░░░░░░░░░░  21.05 %
 Jupyter Notebook   4 repos █████░░░░░░░░░░░░░░░░░░░░  21.05 %
 C++             3 repos ████░░░░░░░░░░░░░░░░░░░░░  15.79 %
-JavaScript      2 repos ███░░░░░░░░░░░░░░░░░░░░░░  10.53 %
 Python          2 repos ███░░░░░░░░░░░░░░░░░░░░░░  10.53 %
+Java            2 repos ███░░░░░░░░░░░░░░░░░░░░░░  10.53 %
 ```
 <!-- LANG_BARS_END -->
 
